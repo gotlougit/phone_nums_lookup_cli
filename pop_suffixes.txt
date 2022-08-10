@@ -1,0 +1,15 @@
+paytm
+upi
+ybl
+apl
+okaxis
+okbizaxis
+okhdfcbank
+okicici
+oksbi
+waaxis
+wahdfcbank
+waicici
+wasbi
+freecharge
+payzapp
